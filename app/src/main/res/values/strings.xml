@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Topic Grid</string>
+    <string name="topic1">Architecture</string>
+    <string name="topic2">Business</string>
+    <string name="topic3">Crafts</string>
+    <string name="topic4">Culinary</string>
+    <string name="topic5">Design</string>
+    <string name="topic6">Drawing</string>
+    <string name="topic7">Fashion</string>
+    <string name="topic8">Film</string>
+    <string name="topic9">Gaming</string>
+    <string name="topic10">Lifestyle</string>
+    <string name="topic11">Music</string>
+    <string name="topic12">Painting</string>
+    <string name="topic13">Photography</string>
+    <string name="topic14">Tech</string>
+</resources>
